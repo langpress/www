@@ -18,3 +18,22 @@ You can use the [editor on GitHub](https://github.com/langpress/docs/edit/master
 + [Aplikacja frontendowa laczaca sie z api](https://app.langpress.com/)
 
 + [Dostep API](https://api.langpress.com/)
+
+
+
+
+# [API Foundation](https://www.apifoundation.com)
+
+Projekt LangPress jest wspierany przez [API Foundation](https://www.apifoundation.com)
+
+Wystartowaliśmy w roku 2018 z kilkoma pomysłami ale jedną ideą:
++ szybsze wytwarzanie orogramowania
+
+Dziś, w roku 2020 dajemy rozwiązania w kilku obszarach:
+
++ [APIexec - executor library for shell scripts](https://www.apiexec.com)
++ [APIcra - shell scripts libraries](https://www.apicra.com)
++ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
++ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
++ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
++ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
