@@ -1,5 +1,5 @@
 + [Wersja angielska - EN](https://www.langpress.com/)
-+ 
+
 ## Welcome to LangPress Project
 
 You can use the [editor on GitHub](https://github.com/langpress/docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
